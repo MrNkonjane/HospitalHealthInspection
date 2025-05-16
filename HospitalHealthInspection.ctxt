@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=HospitalHealthInspection
-comment1.params=args
-comment1.target=void\ main(java.lang.String[])
-comment2.params=position\ inspNum
-comment2.target=void\ displayReport(java.lang.String[],\ int[][])
-comment3.params=monthlyTotals\ inspNum
-comment3.target=void\ displayResults(java.lang.String[],\ int[][])
-numComments=4
